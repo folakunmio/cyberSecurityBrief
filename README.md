@@ -1,7 +1,7 @@
 # cyberSecurityBrief by Folakunmi
 A brief of my cyber security learning and tasks as I grow.
 
-#Introduction# 🛡️ Folakunmi's Cybersecurity Portfolio
+🛡️ Folakunmi's Cybersecurity Portfolio
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/folakunmio/cybersecurity-portfolio)
 ![GitHub last commit](https://img.shields.io/github/last-commit/folakunmio/cybersecurity-portfolio)
