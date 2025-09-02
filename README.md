@@ -1,76 +1,104 @@
 # cyberSecurityBrief by Folakunmi
 A brief of my cyber security learning and tasks as I grow.
 
-#Introduction
-Welcome to my cybersecurity portfolio — a curated collection of hands-on labs, research, and projects that reflect my journey into the world of ethical hacking, network defense, and digital forensics. This repository serves as both a personal archive and a public showcase of my evolving skills in cybersecurity.
+#Introduction# 🛡️ Folakunmi's Cybersecurity Portfolio
 
-#📌 About Me
-I'm Folakunmi, a cybersecurity enthusiast with a passion for ethical hacking, vulnerability assessment, and secure system design. My journey began with foundational training in CEH (Certified Ethical Hacker) and has grown into a deeper exploration of threat modeling, penetration testing, and incident response.
+![GitHub repo size](https://img.shields.io/github/repo-size/folakunmio/cybersecurity-portfolio)
+![GitHub last commit](https://img.shields.io/github/last-commit/folakunmio/cybersecurity-portfolio)
+![GitHub](https://img.shields.io/github/license/folakunmio/cybersecurity-portfolio)
 
-🎯 Purpose of This Portfolio
-This portfolio documents my growth in cybersecurity through:
+Welcome to my cybersecurity portfolio — a curated collection of labs, write-ups, and projects that showcase my growth in ethical hacking, network defense, and digital forensics.
 
-Practical Labs: Real-world simulations using virtual machines and tools like Wireshark, Nessus, and OWASP ZAP.
+---
 
-Projects: Custom-built environments for testing exploits, securing networks, and analyzing malware.
+## 📌 About Me
 
-Write-ups: Reflections and walkthroughs of challenges, CTFs, and vulnerabilities.
+I'm Folakunmi, a cybersecurity enthusiast passionate about ethical hacking, vulnerability assessment, and secure system design. This portfolio reflects my hands-on experience and continuous learning journey.
 
-Certifications & Training: Progress through CEH modules and other learning paths.
+---
 
-#🧪 Lab Environments
-Built using VMware Workstation and configured with:
+## 🎯 Portfolio Goals
 
-Windows Server 2019 & 2022
+- ✅ Document practical labs and simulations
+- ✅ Showcase vulnerable web app configurations
+- ✅ Share write-ups and walkthroughs
+- ✅ Track progress through CEH and other certifications
 
-Windows 11 Enterprise
+---
 
-Parrot Security OS
+## 🧪 Lab Environments
 
-Ubuntu 22.04
+Built using VMware Workstation with the following VMs:
 
-Android VM
+- Windows Server 2019 & 2022
+- Windows 11 Enterprise
+- Parrot Security OS
+- Ubuntu 22.04
+- Android VM
 
-Each environment is isolated and tailored for specific attack simulations, vulnerability scans, and service hardening.
+Each VM is configured for specific attack simulations, vulnerability scans, and service hardening.
 
-#🛠️ Tools & Technologies
-Here are some of the tools I’ve worked with:
+---
 
-Category	Tools Used
-Network Analysis	Wireshark, Nmap, SNMP, FTP, SMB
-Vulnerability Scanning	Nessus, OWASP ZAP, Maltego
-Web Security	DVWA, WordPress, WAMP, SQL Server
-System Configuration	Active Directory, LDAP, SMTP, IIS
-Scripting & Automation	PowerShell, Bash, Python (basic)
-#📚 Featured Projects
-GoodShopping & MovieScope Web Apps: Vulnerable web applications configured for testing SQLi, XSS, and authentication flaws.
+## 🛠️ Tools & Technologies
 
-Active Directory Lab: User account creation, group policy enforcement, and privilege escalation testing.
+| Category              | Tools Used                                      |
+|----------------------|--------------------------------------------------|
+| Network Analysis      | Wireshark, Nmap, SNMP, FTP, SMB                 |
+| Vulnerability Scanning| Nessus, OWASP ZAP, Maltego                      |
+| Web Security          | DVWA, WordPress, WAMP, SQL Server              |
+| System Configuration  | Active Directory, LDAP, SMTP, IIS              |
+| Scripting & Automation| PowerShell, Bash, Python (basic)               |
 
-Wireshark Deep Dive: Packet capture and analysis of simulated attacks.
+---
 
-Nessus Vulnerability Reports: Scans of Windows and Linux VMs with remediation strategies.
+## 📚 Featured Projects
 
-#🧠 What I’ve Learned
-How to set up and secure multi-OS lab environments
+<details>
+  <summary><strong>🔐 Vulnerable Web Apps</strong></summary>
+  - GoodShopping & MovieScope: SQLi, XSS, auth flaws  
+  - DVWA & WordPress: OWASP Top 10 testing
+</details>
 
-Fundamentals of penetration testing and ethical hacking
+<details>
+  <summary><strong>🧑‍💻 Active Directory Lab</strong></summary>
+  - User/group creation  
+  - GPO enforcement  
+  - Privilege escalation testing
+</details>
 
-Importance of network segmentation and firewall configuration
+<details>
+  <summary><strong>📊 Wireshark & Nessus Reports</strong></summary>
+  - Packet capture analysis  
+  - Vulnerability scans with remediation strategies
+</details>
 
-Real-world implications of misconfigured services and weak credentials
+---
 
-#🚀 Next Steps
-Expand into cloud security (Azure/AWS)
+## 🧠 Key Learnings
 
-Explore threat hunting and SIEM tools
+- Setting up and securing multi-OS lab environments
+- Fundamentals of penetration testing and ethical hacking
+- Network segmentation and firewall configuration
+- Real-world implications of misconfigured services
 
-Participate in more Capture The Flag (CTF) competitions
+---
 
-Pursue certifications like CompTIA Security+, OSCP, and CISSP
+## 🚀 Next Steps
 
-#📫 Contact
-Feel free to connect or collaborate:
+- Expand into cloud security (Azure/AWS)
+- Explore threat hunting and SIEM tools
+- Participate in more CTF competitions
+- Pursue certifications: Security+, OSCP, CISSP
 
-LinkedIn: www.linkedin.com/in/folakunmiojemuyiwa
-GitHub: [github.com/folakunmi](https://github.com/folakunmio)
+---
+
+## 📫 Contact
+
+- **Email**: folakunmi@example.com  
+- **LinkedIn**: [linkedin.com/in/folakunmi](https://linkedin.com/in/folakunmi)  
+- **GitHub**: [github.com/folakunmi](https://github.com/folakunmio)
+
+---
+
+> _“Security is not a product, but a process.” — Bruce Schneier_
