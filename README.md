@@ -3,9 +3,9 @@ A brief of my cyber security learning and tasks as I grow.
 
 🛡️ Folakunmi's Cybersecurity Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/folakunmio/cybersecurity-portfolio)
-![GitHub last commit](https://img.shields.io/github/last-commit/folakunmio/cybersecurity-portfolio)
-![GitHub](https://img.shields.io/github/license/folakunmio/cybersecurity-portfolio)
+![GitHub repo size](https://img.shields.io/github/repo-size/folakunmio/cyberSecurityBrief)
+![GitHub last commit](https://img.shields.io/github/last-commit/folakunmio/cyberSecurityBrief)
+![GitHub](https://img.shields.io/github/license/folakunmio/cyberSecurityBrief)
 
 Welcome to my cybersecurity portfolio — a curated collection of labs, write-ups, and projects that showcase my growth in ethical hacking, network defense, and digital forensics.
 
