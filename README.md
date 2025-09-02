@@ -89,7 +89,7 @@ Each VM is configured for specific attack simulations, vulnerability scans, and 
 - Expand into cloud security (Azure/AWS)
 - Explore threat hunting and SIEM tools
 - Participate in more CTF competitions
-- Pursue certifications: Security+, OSCP, CISSP
+- Pursue certifications: Network+, OSCP, CISSP
 
 ---
 
