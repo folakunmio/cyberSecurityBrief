@@ -49,6 +49,7 @@ Each VM is configured for specific attack simulations, vulnerability scans, and 
 | Web Security          | DVWA, WordPress, WAMP, SQL Server              |
 | System Configuration  | Active Directory, LDAP, SMTP, IIS              |
 | Scripting & Automation| PowerShell, Bash, Python (basic)               |
+| Digital Forensics | Autopsy |
 
 ---
 
