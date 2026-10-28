@@ -13,7 +13,7 @@ Welcome to my cybersecurity portfolio — a curated collection of labs, write-up
 
 ## 📌 About Me
 
-I'm Folakunmi, a cybersecurity enthusiast passionate about ethical hacking, vulnerability assessment, and secure system design. This portfolio reflects my hands-on experience and continuous learning journey.
+I'm Folakunmi, a cybersecurity enthusiast passionate about digital forensics, vulnerability assessment, and secure system design. This portfolio reflects my hands-on experience and continuous learning journey.
 
 ---
 
