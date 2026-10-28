@@ -96,7 +96,7 @@ Each VM is configured for specific attack simulations, vulnerability scans, and 
 
 ## 📫 Contact
 
-- **LinkedIn**: [linkedin.com/in/folakunmiojemuyiwa](https://linkedin.com/in/folakunmio)  
+- **LinkedIn**: [linkedin.com/in/folakunmio](https://linkedin.com/in/folakunmio)  
 - **GitHub**: [github.com/folakunmio](https://github.com/folakunmio)
 
 ---
